@@ -52,4 +52,6 @@
     F. > true === Boolean(2)
         true (=== does not implicitly type convert but by saying explicitly Boolean(2) we type cast it to a boolean)
 15. == allows implicit type conversion while === does not
+16. See javascript file
+17. 
 
