@@ -53,5 +53,7 @@
         true (=== does not implicitly type convert but by saying explicitly Boolean(2) we type cast it to a boolean)
 15. == allows implicit type conversion while === does not
 16. See javascript file
-17. 
+17. The callback function allows to pass a function as a parameter which then calls the multiplication of times 2 to the element in the array which is then returned and is the result of the array. It contains the previous array with all the elements multiplied by 2.
+18. See javascript file
+19. 1 4 3 2
 
